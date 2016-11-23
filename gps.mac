@@ -1,0 +1,5 @@
+/gps/particle e-
+/gps/energy 100 MeV
+/gps/direction 0 1 0
+
+/run/beamOn 1
